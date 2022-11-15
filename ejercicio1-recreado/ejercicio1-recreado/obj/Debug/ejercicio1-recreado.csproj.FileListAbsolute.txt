@@ -1,0 +1,16 @@
+C:\Users\Elias Jais\Desktop\Extrados\ejercicio1-recreado\ejercicio1-recreado\bin\Debug\ejercicio1-recreado.exe.config
+C:\Users\Elias Jais\Desktop\Extrados\ejercicio1-recreado\ejercicio1-recreado\bin\Debug\ejercicio1-recreado.exe
+C:\Users\Elias Jais\Desktop\Extrados\ejercicio1-recreado\ejercicio1-recreado\bin\Debug\ejercicio1-recreado.pdb
+C:\Users\Elias Jais\Desktop\Extrados\ejercicio1-recreado\ejercicio1-recreado\obj\Debug\ejercicio1-recreado.csproj.AssemblyReference.cache
+C:\Users\Elias Jais\Desktop\Extrados\ejercicio1-recreado\ejercicio1-recreado\obj\Debug\ejercicio1-recreado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elias Jais\Desktop\Extrados\ejercicio1-recreado\ejercicio1-recreado\obj\Debug\ejercicio1-recreado.csproj.CoreCompileInputs.cache
+C:\Users\Elias Jais\Desktop\Extrados\ejercicio1-recreado\ejercicio1-recreado\obj\Debug\ejercicio1-recreado.exe
+C:\Users\Elias Jais\Desktop\Extrados\ejercicio1-recreado\ejercicio1-recreado\obj\Debug\ejercicio1-recreado.pdb
+D:\Extrados\ejercicio1-recreado\ejercicio1-recreado\obj\Debug\ejercicio1-recreado.csproj.AssemblyReference.cache
+D:\Extrados\ejercicio1-recreado\ejercicio1-recreado\obj\Debug\ejercicio1-recreado.csproj.SuggestedBindingRedirects.cache
+D:\Extrados\ejercicio1-recreado\ejercicio1-recreado\obj\Debug\ejercicio1-recreado.csproj.CoreCompileInputs.cache
+D:\Extrados\ejercicio1-recreado\ejercicio1-recreado\obj\Debug\ejercicio1-recreado.exe
+D:\Extrados\ejercicio1-recreado\ejercicio1-recreado\obj\Debug\ejercicio1-recreado.pdb
+D:\Extrados\ejercicio1-recreado\ejercicio1-recreado\bin\Debug\ejercicio1-recreado.exe.config
+D:\Extrados\ejercicio1-recreado\ejercicio1-recreado\bin\Debug\ejercicio1-recreado.exe
+D:\Extrados\ejercicio1-recreado\ejercicio1-recreado\bin\Debug\ejercicio1-recreado.pdb

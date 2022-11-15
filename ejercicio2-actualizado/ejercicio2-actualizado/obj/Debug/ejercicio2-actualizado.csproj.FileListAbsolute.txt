@@ -1,0 +1,8 @@
+C:\Users\Elias Jais\Desktop\Extrados\ejercicio2-actualizado\ejercicio2-actualizado\bin\Debug\ejercicio2-actualizado.exe.config
+C:\Users\Elias Jais\Desktop\Extrados\ejercicio2-actualizado\ejercicio2-actualizado\bin\Debug\ejercicio2-actualizado.exe
+C:\Users\Elias Jais\Desktop\Extrados\ejercicio2-actualizado\ejercicio2-actualizado\bin\Debug\ejercicio2-actualizado.pdb
+C:\Users\Elias Jais\Desktop\Extrados\ejercicio2-actualizado\ejercicio2-actualizado\obj\Debug\ejercicio2-actualizado.csproj.AssemblyReference.cache
+C:\Users\Elias Jais\Desktop\Extrados\ejercicio2-actualizado\ejercicio2-actualizado\obj\Debug\ejercicio2-actualizado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elias Jais\Desktop\Extrados\ejercicio2-actualizado\ejercicio2-actualizado\obj\Debug\ejercicio2-actualizado.csproj.CoreCompileInputs.cache
+C:\Users\Elias Jais\Desktop\Extrados\ejercicio2-actualizado\ejercicio2-actualizado\obj\Debug\ejercicio2-actualizado.exe
+C:\Users\Elias Jais\Desktop\Extrados\ejercicio2-actualizado\ejercicio2-actualizado\obj\Debug\ejercicio2-actualizado.pdb
