@@ -1,0 +1,8 @@
+C:\Users\Elias Jais\Desktop\Extrados\TiendaApp\TiendaApp\bin\Debug\TiendaApp.exe.config
+C:\Users\Elias Jais\Desktop\Extrados\TiendaApp\TiendaApp\bin\Debug\TiendaApp.exe
+C:\Users\Elias Jais\Desktop\Extrados\TiendaApp\TiendaApp\bin\Debug\TiendaApp.pdb
+C:\Users\Elias Jais\Desktop\Extrados\TiendaApp\TiendaApp\obj\Debug\TiendaApp.csproj.AssemblyReference.cache
+C:\Users\Elias Jais\Desktop\Extrados\TiendaApp\TiendaApp\obj\Debug\TiendaApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elias Jais\Desktop\Extrados\TiendaApp\TiendaApp\obj\Debug\TiendaApp.csproj.CoreCompileInputs.cache
+C:\Users\Elias Jais\Desktop\Extrados\TiendaApp\TiendaApp\obj\Debug\TiendaApp.exe
+C:\Users\Elias Jais\Desktop\Extrados\TiendaApp\TiendaApp\obj\Debug\TiendaApp.pdb

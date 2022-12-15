@@ -1,0 +1,11 @@
+C:\Users\Elias Jais\Desktop\Extrados\ejercicio-dapper\ejercicio-dapper\bin\Debug\ejercicio-dapper.exe.config
+C:\Users\Elias Jais\Desktop\Extrados\ejercicio-dapper\ejercicio-dapper\bin\Debug\ejercicio-dapper.exe
+C:\Users\Elias Jais\Desktop\Extrados\ejercicio-dapper\ejercicio-dapper\bin\Debug\ejercicio-dapper.pdb
+C:\Users\Elias Jais\Desktop\Extrados\ejercicio-dapper\ejercicio-dapper\bin\Debug\Dapper.dll
+C:\Users\Elias Jais\Desktop\Extrados\ejercicio-dapper\ejercicio-dapper\bin\Debug\Dapper.xml
+C:\Users\Elias Jais\Desktop\Extrados\ejercicio-dapper\ejercicio-dapper\obj\Debug\ejercicio-dapper.csproj.AssemblyReference.cache
+C:\Users\Elias Jais\Desktop\Extrados\ejercicio-dapper\ejercicio-dapper\obj\Debug\ejercicio-dapper.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elias Jais\Desktop\Extrados\ejercicio-dapper\ejercicio-dapper\obj\Debug\ejercicio-dapper.csproj.CoreCompileInputs.cache
+C:\Users\Elias Jais\Desktop\Extrados\ejercicio-dapper\ejercicio-dapper\obj\Debug\ejercicio-dapper.csproj.CopyComplete
+C:\Users\Elias Jais\Desktop\Extrados\ejercicio-dapper\ejercicio-dapper\obj\Debug\ejercicio-dapper.exe
+C:\Users\Elias Jais\Desktop\Extrados\ejercicio-dapper\ejercicio-dapper\obj\Debug\ejercicio-dapper.pdb

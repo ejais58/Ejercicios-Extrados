@@ -1,0 +1,8 @@
+C:\Users\Elias Jais\Desktop\Extrados\ejercicio-concurrencia\ejercicio-concurrencia\bin\Debug\ejercicio-concurrencia.exe.config
+C:\Users\Elias Jais\Desktop\Extrados\ejercicio-concurrencia\ejercicio-concurrencia\bin\Debug\ejercicio-concurrencia.exe
+C:\Users\Elias Jais\Desktop\Extrados\ejercicio-concurrencia\ejercicio-concurrencia\bin\Debug\ejercicio-concurrencia.pdb
+C:\Users\Elias Jais\Desktop\Extrados\ejercicio-concurrencia\ejercicio-concurrencia\obj\Debug\ejercicio-concurrencia.csproj.AssemblyReference.cache
+C:\Users\Elias Jais\Desktop\Extrados\ejercicio-concurrencia\ejercicio-concurrencia\obj\Debug\ejercicio-concurrencia.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elias Jais\Desktop\Extrados\ejercicio-concurrencia\ejercicio-concurrencia\obj\Debug\ejercicio-concurrencia.csproj.CoreCompileInputs.cache
+C:\Users\Elias Jais\Desktop\Extrados\ejercicio-concurrencia\ejercicio-concurrencia\obj\Debug\ejercicio-concurrencia.exe
+C:\Users\Elias Jais\Desktop\Extrados\ejercicio-concurrencia\ejercicio-concurrencia\obj\Debug\ejercicio-concurrencia.pdb
