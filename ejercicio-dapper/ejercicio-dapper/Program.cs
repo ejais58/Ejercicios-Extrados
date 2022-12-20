@@ -22,10 +22,9 @@ namespace ejercicio_dapper
             {
 
                 Console.WriteLine("::: Menu de opciones :::");
-                Console.WriteLine("1. Mostrar lista");
-                Console.WriteLine("2. Agregar Personal");
-                Console.WriteLine("3. Eliminar personal");
-                Console.WriteLine("4. Buscar personal");
+                Console.WriteLine("1. Mostrar lista de personal");
+                Console.WriteLine("2. Agregar nuevo personal");
+                Console.WriteLine("3. Ascender personal");
                 Console.WriteLine("   Presione cualquier tecla para salir");
 
                 Console.Write("Seleccion:");
@@ -35,17 +34,31 @@ namespace ejercicio_dapper
                 {
                     case 1:
                         //Lista de personal
+                        Console.WriteLine();
                         var personal = personalDao.getListarPersonal();
-                        foreach (var persona in personal)
-                        {
-                            Console.WriteLine($"Id: {persona.Id}, Nombre: {persona.Nombre}, Apellido: {persona.Apellido}");
-                        }
+                        Console.WriteLine();
                         break;
                     case 2:
+                        //Agregar personal
+                        Personal person = new Personal();
+                        Console.Write("Id: ");
+                        person.Id = int.Parse(Console.ReadLine());
+                        Console.Write("Nombre: ");
+                        person.Nombre = Console.ReadLine();
+                        Console.Write("Apellido: ");
+                        person.Apellido = Console.ReadLine();
+                        Console.Write("Fecha de nacimiento: ");
+                        person.FechaNacimiento = DateTime.Parse(Console.ReadLine().Trim());
                         
+                        tipoPersonal(person);
+
+                        personalDao.postPersonal(person);
                         break;
                     case 3:
-
+                        //Ascender personal
+                        Console.Write("Id: ");
+                        int id = int.Parse(Console.ReadLine());
+                        personalDao.updatePersonal(id);
                         break;
                     case 4:
                         
@@ -54,6 +67,23 @@ namespace ejercicio_dapper
 
             } while (option != 0);
             
+        }
+
+        public static void tipoPersonal(Personal personal)
+        {
+            Console.WriteLine("Tipo de personal: (1 empleado) (2 supervisor) (3 encargado regional)");
+            Console.Write("seleccion:");
+            string seleccion = Console.ReadLine();
+            if (seleccion.Equals("2"))
+            {
+                Console.Write("Gente a cargo: ");
+                personal.GenteACargo = int.Parse(Console.ReadLine());
+            }
+            else if (seleccion.Equals("3"))
+            {
+                Console.Write("Sucursales a cargo: ");
+                personal.SucursalesACargo = int.Parse(Console.ReadLine());
+            }
         }
     }
 }
